@@ -1,0 +1,281 @@
+kode,kode_wilayah,wilayah,sektor,nama_sektor,kecamatan,kode_lurah,Kelurahan,kode_panggil,nama_bangunan,jumlah,peruntukan,status,alamat_lengkap,telepon,kode_pos,tahun_pembangunan,luas_tanah_m2,luas_bangunan_m2,tahun_rehab_terakhir,nilai_pembaruan_rehab_tahun_2008,rincian_rehab_pembangunan,keterangan,Latitude,Longitude
+1.1,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,1,Sektor Gambir,Gambir,1,Duri Pulo ,1.1,Kantor Sudin Jakarta Pusat,1,Kantor Sudin,Dijaga,Jl. KH. Zainul Arifin No. 71,021 6344215,,,,,,,,,-6.161295,106.809519
+1.11.2,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,1,Sektor Gambir,Gambir,2,Cideng,1.11.2,Pos Jati Baru/ Pos Cideng,1,Pos Pemadam,Dijaga,Jl Taman Jati Baru RT003/RW001,,10150,1976,120,1 lantai 99,2005,13751900,"Torn Air, Pompa Sanyo, Pengecetan, Kusen kusen.",,-6.188489,106.813137
+1.11.3,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,1,Sektor Gambir,Gambir,3,Gambir ,1.11.3,Pos Set Neg,1,Pos Pemadam,Dijaga,Jl. Veteran,,10110,,,,,,,Gedung Set  Neg Milik Balaikota,-6.168452,106.821446
+1.11.4,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,1,Sektor Gambir,Gambir,3,Gambir ,1.11.4,Pos Balaikota,1,Pos Pemadam,Dijaga,Jl. Merdeka Selatan,021 3822884,10110,1985,110,1 lantai 110,2000,,,,-6.180704,106.828174
+1.11.5,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,1,Sektor Gambir,Gambir,4,Kebon Kelapa ,1.11.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10120,,,,,,,,,
+1.11.6,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,1,Sektor Gambir,Gambir,5,Petojo Utara,1.11.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10130,,,,,,,,,
+1.11.7,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,1,Sektor Gambir,Gambir,6,Petojo Selatan ,1.11.7,Pos Walikota,1,Pos Pemadam,Dijaga,Jl. Tanah Abang  I,,10160,1980,110,1 lantai 99,2005,7805638,"Pemasangan Pompa Air, Internit, dan Pengecatan.",,-6.17302,106.819007
+1.12.1,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,2,Sektor Tanah Abang,Tanah Abang,7,Kampung Bali ,1.12.1,Pos Tanah Abang / Pos Kampung Bali,1,Pos Pemadam,Dijaga,Jl. Fachrudin,,10250,2007,140,2 lantai 180,,,,,-6.188499,106.813882
+1.12.2,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,2,Sektor Tanah Abang,Tanah Abang,8,Kebon Melati ,1.12.2,Pos Kebon Melati,1,Pos Pemadam,Dijaga,"Jl. H. Awaludin, RT001/RW017",,10230,1981,210,1 lantai 99,2005,21176900,"Ganti Kusen, Internit, Pengecatan, Pasang Pompa Sanyo, dan pintu.",,-6.200265,106.814586
+1.12.3,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,2,Sektor Tanah Abang,Tanah Abang,9,Kebon Kacang ,1.12.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10240,,,,,,,,,
+1.12.4,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,2,Sektor Tanah Abang,Tanah Abang,10,Bendungan Hilir ,1.12.4,Pos Ben Hil,1,Pos Pemadam,Dijaga,Jl. Penjernihan Raya,,10210,1977,243,1 lantai 99,2007,24634800,"Ganti kusen aluminium, internit, tambah daya listrik, dan pengecatan.",,-6.201563,106.808544
+1.12.5,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,2,Sektor Tanah Abang,Tanah Abang,11,Gelora ,1.12.5,Pos MPR / DPR,1,Pos Pemadam,Dijaga,"Komp. Gedung MPR/DPR, RT002/RW003, Jl. Gatot Subroto",,10270,1993,75,1 lantai 75,1998,,,Milik MPR / DPR,-6.210232,106.800158
+1.12.6,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,2,Sektor Tanah Abang,Tanah Abang,12,Karet Tengsin,1.12.6,Pos Karet ,0,Belum ada Pos/Sektor,None,Jl. Penjernihan Raya RT015/RW006,,10220,,,,,,,,-6.201481,106.808393
+1.12.7,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,2,Sektor Tanah Abang,Tanah Abang,13,Petamburan ,1.12.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10260,,,,,,,,,
+1.13.1,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,3,Sektor Menteng,Menteng,14,Menteng ,1.13.1,Pos TIM,0,Belum ada Pos/Sektor,None,,,10310,,,,,,,,,
+1.13.2,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,3,Sektor Menteng,Menteng,15,Pegangsaan ,1.13.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10320,,,,,,,,,
+1.13.3,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,3,Sektor Menteng,Menteng,16,Cikini ,1.13.3,Pos T I M/ Pos Cikini,1,Pos Pemadam,Dijaga,"Gd TIM, Jl. Cikini Raya",,10330,1958,99,1 lantai 99,2007,49514300,"Tambah ruang istirahat, ganti kusen, internit dan pengecatan.",Tanah Milik TIM,-6.190298,106.838195
+1.13.4,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,3,Sektor Menteng,Menteng,17,Gondangdia ,1.13.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10350,,,,,,,,,
+1.13.5,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,3,Sektor Menteng,Menteng,18,Kebon Sirih ,1.13.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10340,,,,,,,,,
+1.14,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,4,Sektor Johar Baru,Johar Baru,19,Johar Baru ,1.14,Kantor Sektor Johar Baru,1,Kantor Sektor,Dijaga,Jl. Johar Baru Utara I,021 4200508,10560,2004,500,2 lantai 480,,1376434000,Pembangunan Baru,,-6.182116,106.85614
+1.14.2,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,4,Sektor Johar Baru,Johar Baru,20,Kampung Rawa ,1.14.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10550,,,,,,,,,
+1.14.3,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,4,Sektor Johar Baru,Johar Baru,21,Galur ,1.14.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10530,,,,,,,,,
+1.14.4,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,4,Sektor Johar Baru,Johar Baru,22,Tanah Tinggi ,1.14.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10540,,,,,,,,,
+1.15,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,5,Sektor Cempaka Putih,Cempaka Putih,24,Cempaka Putih Timur ,1.15,Kantor Sektor Cempaka Putih,1,Kantor Sektor,Dijaga,"Jl. Komplek Rawakerbo, Rawasari RT012/RW002",021 42802686,10510,2009,,,,,,,-6.185271,106.873802
+1.15.2,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,5,Sektor Cempaka Putih,Cempaka Putih,25,Cempaka Putih Barat ,1.15.2,Pos Cempaka Putih,1,Pos Pemadam,Dijaga,Jl. Cempaka Putih Barat Raya  ,,10520,1992,280,1 lantai 99,2005,115412000,"Tambah ruang istirahat,  pengecatan.internit, dan kusen  kusen.",,-6.175091,106.859927
+1.15.3,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,5,Sektor Cempaka Putih,Cempaka Putih,23,Rawasari ,1.15.3,Pos Rawa Kebo,0,Belum ada Pos/Sektor,None,,,10570,,,,,,,,,
+1.16.1,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,6,Sektor Kemayoran,Kemayoran,26,Kemayoran ,1.16.1,Kantor Sektor Kemayoran,1,Kantor Sektor,Dijaga,"Jl. Angkasa Pura Raya Blok BII No. 3, Kota Baru Bandar Kemayoran",021 65866642,10620,2004,1500,3 lantai 720,,2354672000,Pembangunan Baru,,-6.155115,106.842701
+1.16.2,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,6,Sektor Kemayoran,Kemayoran,27,Gunung Sahari Selatan ,1.16.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10610,,,,,,,,,
+1.16.3,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,6,Sektor Kemayoran,Kemayoran,28,Kebon Kosong ,1.16.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10630,,,,,,,,,
+1.16.4,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,6,Sektor Kemayoran,Kemayoran,29,Serdang ,1.16.4,Pos Serdang,1,Pos Pemadam,Dijaga,Jl. Lapangan Poros Raya RT006/RW004,,10650,1990,270,1 lanati 99,2005,704999000,"Bongkar kap.ganti genteng, kusenkusen pintu, dan pengecatan.",,-6.162316,106.863295
+1.16.5,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,6,Sektor Kemayoran,Kemayoran,30,Harapan Mulia ,1.16.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10640,,,,,,,,,
+1.16.6,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,6,Sektor Kemayoran,Kemayoran,31,Utan Panjang ,1.16.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10650,,,,,,,,,
+1.16.7,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,6,Sektor Kemayoran,Kemayoran,32,Cempaka Baru ,1.16.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10640,,,,,,,,,
+1.16.8,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,6,Sektor Kemayoran,Kemayoran,33,Sumur Batu,1.16.8,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10640,,,,,,,,,
+1.17.1,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,7,Sektor Senen,Senen,34,Bungur ,1.17.1,Pos Bungur,1,Pos Pemadam,Dijaga,Jl. Bungur Besar Raya,,10460,1963,135,1 lantai 99,2005,64856000,"Bongkar talang datar,ganti asbes, kusen  kusen, internit, dan pengecatan.",,-6.162417,106.840237
+1.17.2,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,7,Sektor Senen,Senen,35,Kenari ,1.17.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10430,,,,,,,,,
+1.17.3,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,7,Sektor Senen,Senen,36,Paseban ,1.17.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10440,,,,,,,,,
+1.17.4,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,7,Sektor Senen,Senen,37,Kramat ,1.17.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10450,,,,,,,,,
+1.17.5,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,7,Sektor Senen,Senen,38,Kwitang ,1.17.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10420,,,,,,,,,
+1.17.6,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,7,Sektor Senen,Senen,39,Senen ,1.17.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10410,,,,,,,,,
+1.18.1,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,8,Sektor Sawah Besar,Sawah Besar,40,Mangga Dua Selatan ,1.18.1,Kantor sektor Mangga Dua,1,Kantor Sektor,Dijaga,Jl. Mangga Dua Dalam I,021 62203617,10730,2006,920,2 lantai 480,,1600000000,Pembangunan Baru,,-6.137597,106.827236
+1.18.2,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,8,Sektor Sawah Besar,Sawah Besar,41,Pasar Baru ,1.18.2,Pos Pasar Baru,1,Pos Pemadam,Dijaga,Jl. Lautze RT012/RW005,,10750,1962,160,1 lantai 99,2007,24689900,"Bongkar talang datar, kusen  kusen, internit, dan pengecatan.",,-6.157657,106.834401
+1.18.3,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,8,Sektor Sawah Besar,Sawah Besar,42,Gunung Sahari Utara ,1.18.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10720,,,,,,,,,
+1.18.4,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,8,Sektor Sawah Besar,Sawah Besar,43,Karang Anyar ,1.18.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10740,,,,,,,,,
+1.18.5,1,Sudin DamkarPB Kota Administrasi Jakarta Pusat,8,Sektor Sawah Besar,Sawah Besar,44,Kartini,1.18.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,10710,,,,,,,,,
+2.1,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,1,Sektor Cilincing,Cilincing,1,Semper Barat,2.1,Sudin Baru,1,Kantor Sudin,Dijaga,Jl. Pemadam Kebakaran No. 113,,14130,2006,17000,4 Lantai : 844,,,Pembangunan dilaksanakan oleh Dinas Pemadam Kebakaran Prov DKI Jakarta ,,-6.127838,106.926654
+2.11.1,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,1,Sektor Cilincing,Cilincing,1,Semper Barat,2.11.1,Pos Pemadam Semper ,1,Pos Pemadam,Tidak Dijaga,"Asrama Pemadam Semper Barat, Jl. Semper Barat RT002/RW017",,14130,1981,315,1 Lantai :143,,,,Rusak dan kebanjiran  Pertimbangan deket sudin Baru,-6.12941,106.927275
+2.11.2,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,1,Sektor Cilincing,Cilincing,2,Kalibaru,2.11.2,Pos Pemadam Rorotan,1,Pos Pemadam,Dijaga,Jl. Kalibaru Timur IX,,14110,1979,312,1 Lantai :143,,,,Rusak,,
+2.11.3,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,1,Sektor Cilincing,Cilincing,3,Rorotan,2.11.3,Pos Pemadam Kalibaru,1,Pos Pemadam,Dijaga,Jl. Pinus Raya Komp. Green Garden,,14140,1982,560,1 Lantai :143,,,,Rusak / atap bocor,-6.101846,106.926412
+2.11.4,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,1,Sektor Cilincing,Cilincing,4,Sukapura,2.11.4,Pos Pemadam Gading Griya/ Pos Sukapura,1,Pos Pemadam,Dijaga,"Perum Gading Griya Lestari, Jl. Belimbing RT012/RW005",,14140,2004,560,1 Lantai :143,2008,287000000,Rehap Pos Pemadam,Rusak dan Kebanjiran,-6.122306,106.86921
+2.11.5,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,1,Sektor Cilincing,Cilincing,5,Cilincing,2.11.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14120,,,,,,,,,
+2.11.6,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,1,Sektor Cilincing,Cilincing,6,Semper Timur,2.11.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14130,,,,,,,,,
+2.11.7,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,1,Sektor Cilincing,Cilincing,7,Marunda,2.11.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14150,,,,,,,,,
+2.12.1,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,2,Sektor Koja,Koja,8,Rawa Badak Utara,2.12.1,Pos Permai,1,Kantor Sektor,Tidak Dijaga,"Jl. Anggrek No. 1, Permai RT001/RW012",,14230,1975,,2 Lantai : 452,2005,203188696,Rehap Gudang dan pengecatan,Rusak dan Banjir,-6.11517,106.893385
+2.12.2,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,2,Sektor Koja,Koja,9,Koja,2.12.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14210,,,,,,,,,
+2.12.3,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,2,Sektor Koja,Koja,10,Rawa Badak Selatan,2.12.3,Sektor II Permai,0,Belum ada Pos/Sektor,None,,,14230,,,,,,,,,
+2.12.4,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,2,Sektor Koja,Koja,11,Lagoa,2.12.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14270,,,,,,,,,
+2.12.5,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,2,Sektor Koja,Koja,12,Tugu Utara,2.12.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14260,,,,,,,,,
+2.12.6,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,2,Sektor Koja,Koja,13,Tugu Selatan,2.12.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14260,,,,,,,,,
+2.13.1,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,3,Sektor Tanjung Priok,Tanjung Priok,14,Tanjung Priok,2.13.1,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14310,,,,,,,,,
+2.13.2,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,3,Sektor Tanjung Priok,Tanjung Priok,15,Sunter Agung,2.13.2,Pos Pemadam Podomoro/ Pos Sunter Agung,1,Pos Pemadam,Dijaga,Jl. Agung Tengah,,14350,1982,210,1 Lantai :143,2004,287000000,"Rehap pos pemadam , peninggian lantai 80 cm",,-6.144844,106.864574
+2.13.3,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,3,Sektor Tanjung Priok,Tanjung Priok,16,Sungai Bambu,2.13.3,Pos Pemadam Gaya Motor/ Pos Sungai Bambu,0,Pos Pemadam,Dijaga,Jl. Gaya Motor ,,14350,,210,1 Lantai :143,,,,Milik PT Gaya Motor,-6.134057,106.882354
+2.13.4,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,3,Sektor Tanjung Priok,Tanjung Priok,17,Kebon Bawang ,2.13.4,Pos Walikota,1,Pos Pemadam,Tidak Dijaga,Kantor Walikota,,14320,,,,,,,Milik Walikota (belum dijaga),,
+2.13.5,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,3,Sektor Tanjung Priok,Tanjung Priok,18,Warakas,2.13.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14340,,,,,,,,,
+2.13.6,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,3,Sektor Tanjung Priok,Tanjung Priok,19,Papanggo,2.13.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14340,,,,,,,,,
+2.13.7,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,3,Sektor Tanjung Priok,Tanjung Priok,20,Sunter Jaya,2.13.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14350,,,,,,,,,
+2.14.1,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,4,Sektor Kelapa Gading,Kelapa Gading,21,Kelapa Gading Barat,2.14.1,Pos Pemadam Kelapa Gading,1,Pos Pemadam,Dijaga,Jl. Pelepah Indah LC 3,,14240,1995,560,1 Lantai :143,,,,Rusak / atap bocor,-6.157145,106.904022
+2.14.2,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,4,Sektor Kelapa Gading,Kelapa Gading,22,Pegangsaan Dua,2.14.2,Pos Pemadam Pegangsaan Dua,1,Pos Pemadam,Dijaga,Jl. Taman Pegangsaan Indah,,14250,1990,535,1 Lantai :143,,,,Rusak Berat,-6.166505,106.920109
+2.14.3,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,4,Sektor Kelapa Gading,Kelapa Gading,23,Kelapa Gading Timur,2.14.3,Kantor Sektor Kelapa Gading,1,Kantor Sektor,Dijaga,"Jl. Komp. HI Blok A No. I, Kelapa Gading Timur",,14240,,,,,,,,-6.157145,106.904022
+2.15,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,5,Sektor Pademangan,Pademangan,24,Ancol,2.15,Kantor Sektor Ancol,1,Kantor Sektor,Dijaga,Jl. Ancol Barat VII,,14430,2005,1040,1 Lantai :324,2005,2738506500,Pembangunan Kantor Sektor       ( Peningkatan Pos Menjadi Kantor Sektor ),Belumada mesin penjemur selang,-6.123585,106.818068
+2.15.1,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,5,Sektor Pademangan,Pademangan,24,Ancol,2.15.1,Pos Pemadam Bina Ria Ancol,0,Pos Pemadam,Dijaga,Jl. Lodan Timur V,,14430,,510,1 Lantai :143,,,,Milik PT Ancol,-6.129495,106.832978
+2.15.2,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,5,Sektor Pademangan,Pademangan,25,Pademangan Timur,2.15.2,Pos Pemadam Pademangan Timur,1,Pos Pemadam,Dijaga,Jl.Pademangan IX,,14410,1990,165,1 Lantai :143,2008,275960000,Rehap Pos Pemadam dan Peninggian,,-6.143854,106.843381
+2.15.3,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,5,Sektor Pademangan,Pademangan,26,Pademangan Barat,2.15.3,Pos Pemadam Pademangan Barat,1,Pos Pemadam,Dijaga,Jl. Budi Mulya Raya,,14420,1985,597,1 Lantai :143,,,,Rusak Sedang,-6.132921,106.840079
+2.16.1,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,6,Sektor Penjaringan,Penjaringan,27,Pejagalan,2.16.1,Pos Pemadam Teluk Gong/ Pos Pejagalan,1,Pos Pemadam,Dijaga,Jl. Taman Permata Indah RW014,,14450,1983,315,1 Lantai :143,2007,445423050,Rehap Pos Pemadam dan peninggian,,-6.142992,106.776542
+2.16.2,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,6,Sektor Penjaringan,Penjaringan,28,Penjaringan,2.16.2,Pos Pemadam Muara Baru,1,Pos Pemadam,Dijaga,Jl. Pelabuhan Perikanan,,14440,1997,304,1 Lantai :143,,,,Rusak dan Banjir,-6.104681,106.801816
+2.16.3,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,6,Sektor Penjaringan,Penjaringan,28,Penjaringan,2.16.3,Pos Pemadam Penjaringan,0,Pos Pemadam,Dijaga,Jl. Tanah Merah ,,14440,1990,510,1 Lantai :143,2007,397770550,Rehap Pos Pemadam dan Peninggian,,-6.133698,106.808552
+2.16.4,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,6,Sektor Penjaringan,Penjaringan,28,Penjaringan,2.16.4,Pos Pemadam Kamal Muara,1,Pos Pemadam,Dijaga,Jl. Pelabuhan Perikanan,,14440,1997,304,1 Lantai :143,,,,Rusak dan Banjir,,
+2.16.5,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,6,Sektor Penjaringan,Penjaringan,29,Kapuk Muara,2.16.5,Pos Pemadam Kapuk Muara,1,Pos Pemadam,Tidak Dijaga,Jl. Komp Pergudangan ,,14460,1990,462,1 Lantai :143,,,,Rusak Berat dikarenakan Banjir / tidak dijaga,,
+2.16.6,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,6,Sektor Penjaringan,Penjaringan,31,Pluit,2.16.6,Pos Pluit,1,Pos Pemadam,Dijaga,Jl. Pluit Barat Terusan,,14450,1984,410,1 Lantai :143,2006,435951474,Rehap Pos Pemadam dan peninggian lantai 120 cm,,,
+2.16.7,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,6,Sektor Penjaringan,Penjaringan,31,Pluit,2.16.7,Pos Pemadam Muara Angke,0,Pos Pemadam,Dijaga,Jl. Dermaga Pelabuhan,,14450,1975,425,1 Lantai :143,2005,251025053,"Rehap Pos Pemadam, Pagar dan Peninggianlantai 150 cm",,-6.108394,106.773679
+2.16.8,2,Sudin DamkarPB Kota Administrasi Jakarta Utara,6,Sektor Penjaringan,Penjaringan,31,Pluit,2.16.8,Pos Pantai Indah Kapuk,0,Pos Pemadam,Tidak Dijaga,Perumahan Pantai Indah Kapuk,,14450,,,,,,,,,
+3.1,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,1,Sektor Grogol Petamburan,Grogol Petamburan,1,Tanjung Duren Utara,3.1,Kantor Sudin Pemadam Kebakaran,1,Kantor Sudin,Dijaga,Jl. Tanjung Duren Raya No.1 ,,11470,,4630,5  Lantai : 67601,2008,1650000000,"1. Rehap Panggung    2, Peredam Suara          3. Lampu Panggung        4. Pengerasan hal         5. Septik tank              6. Gudang BBM /bkl.     7. Gardu Penjagaan      8. Perawatan ",Lanjutan lantai 5,-6.173505,106.787869
+3.11.1,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,1,Sektor Grogol Petamburan,Grogol Petamburan,6,Wijaya Kusuma,3.11.1,Kantor Sektor Grogol Petamburan,1,Kantor Sektor,Dijaga,Jl. Perdana,,11460,2008,848,2 lantai :143,2006,500000000,Rehap Total lanjutan,Peningkatan Pos ke Sektor,,
+3.11.2,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,1,Sektor Grogol Petamburan,Grogol Petamburan,2,Tanjung Duren Selatan,3.11.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11470,,,,,,,,,
+3.11.3,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,1,Sektor Grogol Petamburan,Grogol Petamburan,3,Tomang,3.11.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11440,,,,,,,,,
+3.11.4,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,1,Sektor Grogol Petamburan,Grogol Petamburan,4,Grogol,3.11.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11450,,,,,,,,,
+3.11.5,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,1,Sektor Grogol Petamburan,Grogol Petamburan,6,Jelambar,3.11.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11460,,,,,,,,,
+3.11.6,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,1,Sektor Grogol Petamburan,Grogol Petamburan,5,Jelambar Baru,3.11.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11460,,,,,,,,,
+3.11.7,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,1,Sektor Grogol Petamburan,Grogol Petamburan,7,Wijaya Kusuma,3.11.7,Pos Duta Mas,1,Pos Pemadam,Dijaga,Jl. Komp. Perumahan Duta Mas,,11460,2002,550,1 lantai : 143,2006,,Perawatan,Perawatan 5 Sektor dan 8 Pos Rp. 200.000.000,,
+3.12.1,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,2,Sektor Palmerah,Palmerah,8,Palmerah,3.12.1,Pos Palmerah,0,Belum ada Pos/Sektor,None,,,11480,,,,,,,,-6.173505,106.787869
+3.12.2,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,2,Sektor Palmerah,Palmerah,9,Slipi,3.12.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11410,,,,,,,,,
+3.12.3,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,2,Sektor Palmerah,Palmerah,10,Kemanggisan,3.12.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11480,,,,,,,,,
+3.12.4,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,2,Sektor Palmerah,Palmerah,11,Kota Bambu Utara,3.12.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11420,,,,,,,,,
+3.12.5,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,2,Sektor Palmerah,Palmerah,12,Kota Bambu Selatan,3.12.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11420,,,,,,,,,
+3.12.6,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,2,Sektor Palmerah,Palmerah,13,Jati Pulo,3.12.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11430,,,,,,,,,
+3.13.1,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,3,Sektor Tambora,Tambora,14,Roa Malaka,3.13.1,Kantor Sektor Tambora,1,Kantor Sektor,Dijaga,Jl. Tiang Bendera I No. 2 RT003/RW003,021 6918237,,,,,,,,,-6.133698,106.808447
+3.13.2,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,3,Sektor Tambora,Tambora,15,Kali Anyar,3.13.2,Pos Angke,0,Belum ada Pos/Sektor,None,Jl. Jama Hari,,11310,,,,,,,,-6.143499 ,106.800201
+3.13.3,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,3,Sektor Tambora,Tambora,16,Duri Utara,3.13.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11270,,,,,,,,,
+3.13.4,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,3,Sektor Tambora,Tambora,17,Duri Selatan,3.13.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11270,,,,,,,,,
+3.13.5,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,3,Sektor Tambora,Tambora,18,Tanah Sereal,3.13.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11210,,,,,,,,,
+3.13.6,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,3,Sektor Tambora,Tambora,19,Krendang,3.13.6,Pos Krendang,1,Pos Pemadam,Dijaga,Jl. Krendang Raya,,11260,2005,560,1 lantai : 143,2005,,Perawatan,,-6.148108,106.804167
+3.13.7,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,3,Sektor Tambora,Tambora,20,Angke,3.13.7,Belum Tersedia,1,Pos Pemadam,Dijaga,Jl. H. Jamhari,,11330,2005,530,1 lantai : 143,,,Perawatan,,-6.143499 ,106.800201
+3.13.8,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,3,Sektor Tambora,Tambora,21,Jembatan Besi,3.13.8,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11320,,,,,,,,,
+3.13.9,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,3,Sektor Tambora,Tambora,22,Jembatan Lima,3.13.9,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11250,,,,,,,,,
+3.13.10,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,3,Sektor Tambora,Tambora,23,Tambora,3.13.10,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11220,,,,,,,,,
+3.13.11,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,3,Sektor Tambora,Tambora,24,Pekojan,3.13.11,Pos Krendang,0,Belum ada Pos/Sektor,None,,,11240,,,,,,,,,
+3.14.1,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,4,Sektor Tamansari,Tamansari,32,Pinangsia,3.14.1,Kantor Sektor Taman Sari,1,Kantor Sektor,Dijaga,Jl. Kemukus ,021 6916503 / 021 6916504,11110,,,,,,,,-6.134458,106.815024
+3.14.2,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,4,Sektor Tamansari,Tamansari,28,Maphar,3.14.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11160,,,,,,,,,
+3.14.3,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,4,Sektor Tamansari,Tamansari,27,Krukut,3.14.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11140,,,,,,,,,
+3.14.4,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,4,Sektor Tamansari,Tamansari,26,Tangki,3.14.4,Pos Lokasari,1,Pos Pemadam,Dijaga,Jl. Komp Hiburan Lokasari,021 6253265,11170,,177,1 lantai : 143,,,Perawatan,,-6.150112,106.825717
+3.14.5,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,4,Sektor Tamansari,Tamansari,29,Mangga Besar,3.14.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11180,,,,,,,,,
+3.14.6,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,4,Sektor Tamansari,Tamansari,30,Keagungan,3.14.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11130,,,,,,,,,
+3.14.7,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,4,Sektor Tamansari,Tamansari,31,Glodok,3.14.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11120,,,,,,,,,
+3.15.8,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,4,Sektor Tamansari,Tamansari,25,Taman Sari,3.15.8,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11150,,,,,,,,,
+3.15.1,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,5,Sektor Kebun Jeruk,Kebun Jeruk,33,Kebon Jeruk,3.15.1,Kantor Sektor Kebon Jeruk,1,Kantor Sektor,Dijaga,Jl. Komp. Perumahan Kebon Jeruk Baru,021 53001113,11530,2006,681,2 lantai: 449,,,Perawatan,,-6.200394,106.768262
+3.15.2,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,5,Sektor Kebun Jeruk,Kebun Jeruk,34,Kelapa Dua,3.15.2,Pos Kebon Jeruk  Lama,1,Pos Pemadam,Dijaga,Jl. Kelapa Dua,021 5481113,11550,1980,450,1 lantai : 143,,,Perawatan,,-6.227807,106.615774
+3.15.3,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,5,Sektor Kebun Jeruk,Kebun Jeruk,35,Kedoya Utara,3.15.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11520,,,,,,,,,
+3.15.4,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,5,Sektor Kebun Jeruk,Kebun Jeruk,36,Kedoya Selatan,3.15.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11520,,,,,,,,,
+3.15.5,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,5,Sektor Kebun Jeruk,Kebun Jeruk,37,Sukabumi Utara,3.15.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11540,,,,,,,,,
+3.15.6,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,5,Sektor Kebun Jeruk,Kebun Jeruk,38,Sukabumi Selatan,3.15.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11560,,,,,,,,,
+3.15.7,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,5,Sektor Kebun Jeruk,Kebun Jeruk,39,Duri Kepa,3.15.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11510,,,,,,,,,
+3.16,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,6,Sektor Kembangan,Kembangan,44,Kembangan Selatan,3.16,Kantor Sektor Kembangan ,1,Kantor Sektor,Dijaga,Jl. Kembangan Raya No. 2 RT001/RW002,021 58304418,11610,2003,680,2 lantai: 450,2005,,Perawatan,,-6.184629,106.738513
+3.16.1,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,6,Sektor Kembangan,Kembangan,45,Kembangan Selatan,3.16.1,Pos Puri Kembangan ,1,Pos Pemadam,Dijaga,Jl. Kembangan Sakti,,11610,1997,480,1 lantai : 143,,,Perawatan,,,
+3.16.2,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,6,Sektor Kembangan,Kembangan,41,Joglo,3.16.2,Pos Joglo,1,Pos Pemadam,Dijaga,Jl. Asrama  Sudin Pemadam Jakarta Barat,,11640,1985,560,1 lantai : 143,,,Perawatan,,-6.217982,106.750784
+3.16.3,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,6,Sektor Kembangan,Kembangan,42,Srengseng,3.16.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11630,,,,,,,,,
+3.16.4,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,6,Sektor Kembangan,Kembangan,43,Maruya Utara,3.16.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11620,,,,,,,,,
+3.16.5,,Sudin DamkarPB Kota Administrasi Jakarta Barat,7,Sektor Kembangan,Kembangan,,Kembangan Utara,3.16.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,,,,,,,,,,
+3.16.6,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,6,Sektor Kembangan,Kembangan,40,Maruya Selatan,3.16.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11650,,,,,,,,,
+3.17,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,7,Sektor Cengkareng,Cengkareng,46,Cengkareng Barat,3.17,Kantor Sektor Cengkareng,1,Kantor Sektor,Dijaga,Jl. Taman Palem Lestari Blok A RT014/RW016,,11730,2003,725,2 lantai : 450,2002,,Perawatan,,-6.133099,106.718591
+3.17.1,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,7,Sektor Cengkareng,Cengkareng,46,Cengkareng Barat,3.17.1,Sektor Palem,1,Pos Pemadam,Dijaga,Jl. Kamal Raya,,11730,1990,560,1 lantai : 143,,,Perawatan,,-6.133176,106.718742
+3.17.2,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,7,Sektor Cengkareng,Cengkareng,47,Rawa Buaya,3.17.2,Pos Rawa Buaya,1,Pos Pemadam,Dijaga,Jl. Hikmah RT009/RW003,,11750,1990,560,1 lantai : 143,2003,,Perawatan,,-6.162948,106.73146
+3.17.3,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,7,Sektor Cengkareng,Cengkareng,48,Duri Kosambi,3.17.3,Pos Kresek,1,Pos Pemadam,Dijaga,Jl. Nusa Indah II RT005/RW12,,11740,1995,418,1 lantai : 143,2008,350000000,Rehap Total,,-6.177287,106.707463
+3.17.4,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,7,Sektor Cengkareng,Cengkareng,49,Kedaung Kali Angke,3.17.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11710,,,,,,,,,
+3.17.5,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,7,Sektor Cengkareng,Cengkareng,50,Kapuk ,3.17.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11720,,,,,,,,,
+3.17.6,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,7,Sektor Cengkareng,Cengkareng,51,Cengkareng Timur,3.17.6,Pos Samsat ,1,Pos Pemadam,Tidak Dijaga,Jl Daan Mogot KM. 13,,11730,,,,,,,,,
+3.18.1,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,8,Sektor Kalideres,Kalideres,55,Kalideres,3.18.1,Pos Kalideres,1,Pos Pemadam,Dijaga,Jl. Perum Citra Garden I / Blok E,,11840,1985,850,1 lantai : 143,,,Perawatan,,,
+3.18.2,,Sudin DamkarPB Kota Administrasi Jakarta Barat,9,Sektor Kalideres,Kalideres,,Pegadungan,3.18.2,Pos Pemadam Citra Garden / Pos Pegadungan,1,Pos Pemadam,Dijaga,Jl. Komplek Citra Garden 2,,11830,,,,,,,,-6.11939,106.703099
+3.18.3,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,8,Sektor Kalideres,Kalideres,56,Semanan,3.18.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11850,,,,,,,,,
+3.18.4,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,8,Sektor Kalideres,Kalideres,54,Tegal Alur,3.18.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,11820,,,,,,,,,
+3.18.5,3,Sudin DamkarPB Kota Administrasi Jakarta Barat,8,Sektor Kalideres,Kalideres,53,Kamal,3.18.5,Kantor Sektor,1,Kantor Sektor,Dijaga,Jl. Komp. Perumahan Citra Garden V,021 5553450,11810,2003,630,2 lantai : 450,2003,,Perawatan,,,
+4.1,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,1,Sektor Kebayoran Lama,Kebayoran Lama,1,Pondok Pinang,4.1,Kantor Sudin Jakarta Selatan,1,Kantor Sudin,Dijaga,Jl. Baru Pasar Jum'at / Jl. RA. Kartini,,12310,2007,5126,4043,2007,,,,-6.289077,106.774961
+4.11.2,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,1,Sektor Kebayoran Lama,Kebayoran Lama,2,Grogol Selatan,4.11.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12220,,,,,,,,,
+4.11.3,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,1,Sektor Kebayoran Lama,Kebayoran Lama,3,Kebayoran Lama Selatan,4.11.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12240,,,,,,,,,
+4.11.4,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,1,Sektor Kebayoran Baru,Kebayoran Lama,9,Tanah Kusir,4.11.4,Pos Tanah Kusir,1,Pos Pemadam,Dijaga,Jl. Ciputat Raya,,12140,,,,,,,,-6.252229,106.777955
+4.11.5,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,1,Sektor Kebayoran Lama,Kebayoran Lama,5,Grogol Utara,4.11.5,Pos Grogol Utara,1,Pos Pemadam,Dijaga,Jl. Kebayoran Lama/Palmerah Utara,,12210,2005,310,99,,,,,-6.213848,106.77779
+4.11.6,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,1,Sektor Kebayoran Lama,Kebayoran Lama,6,Cipulir,4.11.6,Pos Cipulir,1,Pos Pemadam,Dijaga,Jl. Cileduk Raya,,12230,1986,469,99,2007,,,,-6.238024,106.76761
+4.12.1,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,2,Sektor Kebayoran Baru,Kebayoran Baru,7,Kebayoran Baru,4.12.1,Pos Kebayoran,1,Pos Pemadam,Dijaga,Jl. Radio IV ,,12130,2007,198,111,2007,,,,-6.248973,106.793642
+4.12.2,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,2,Sektor Kebayoran Baru,Kebayoran Baru,8,Cipete Utara,4.12.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12150,,,,,,,,,
+4.12.3,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,2,Sektor Kebayoran Baru,Kebayoran Baru,8,Gandaria Utara,4.12.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,,,,,,,,,,
+4.12.4,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,2,Sektor Kebayoran Baru,Kebayoran Baru,10,Petogogan,4.12.4,Pos Walikota,1,Pos Pemadam,Dijaga,Jl. Prapanca Raya No. 9,,12170,2007,,,,,,,-6.248482,106.807919
+4.12.5,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,2,Sektor Kebayoran Baru,Kebayoran Baru,11,Melawai,4.12.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12160,,,,,,,,,
+4.12.6,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,2,Sektor Kebayoran Baru,Kebayoran Baru,12,Gunung,4.12.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12120,,,,,,,,,
+4.12.7,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,2,Sektor Kebayoran Baru,Kebayoran Baru,13,Selong,4.12.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12110,,,,,,,,,
+4.12.8,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,2,Sektor Kebayoran Baru,Kebayoran Baru,14,Rawa Barat,4.12.8,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12180,,,,,,,,,
+4.12.9,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,2,Sektor Kebayoran Baru,Kebayoran Baru,15,Senayan,4.12.9,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12190,,,,,,,,,
+4.12.10,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,2,Sektor Kebayoran Baru,Kebayoran Baru,16,Pulo,4.12.10,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12160,,,,,,,,,
+4.13.1,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,3,Sektor Mampang Prapatan,Mampang Prapatan,19,Kuningan Barat,4.13.1,Sektor Jagakarsa,1,Pos Pemadam,Dijaga,Jl. Kapten Tendean,,12710,,,,,,,,-6.239947,106.826669
+4.13.2,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,3,Sektor Mampang Prapatan,Mampang Prapatan,18,Bangka,4.13.2,Pos Kuningan  Barat,0,Belum ada Pos/Sektor,None,,,12730,,,,,,,,,
+4.13.3,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,3,Sektor Mampang Prapatan,Mampang Prapatan,17,Mampang Prapatan,4.13.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12790,1984,420,99,2005,368750000,,,,
+4.13.4,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,3,Sektor Mampang Prapatan,Mampang Prapatan,20,Pela Mampang,4.13.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12720,,,,,,,,,
+4.13.5,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,3,Sektor Mampang Prapatan,Mampang Prapatan,21,Tegal Parang,4.13.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12790,,,,,,,,,
+4.14.1,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,4,Sektor Pesanggrahan,Pesanggrahan,23,Pesanggrahan,4.14.1,Kantor Sektor Pesanggrahan,1,Kantor Sektor,Dijaga,Jl. Pesanggrahan Indah,021 7360917,,,,,,,,,-6.257311,106.757091
+4.14.2,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,4,Sektor Pesanggrahan,Pesanggrahan,22,Bintaro,4.14.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12330,2003,560,216,,,,,,
+4.14.3,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,4,Sektor Pesanggrahan,Pesanggrahan,24,Ulujami,4.14.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12250,,,,,,,,,
+4.14.4,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,4,Sektor Pesanggrahan,Pesanggrahan,25,Petukangan Utara,4.14.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12260,,,,,,,,,
+4.14.5,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,4,Sektor Pesanggrahan,Pesanggrahan,26,Petukangan Selatan,4.14.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12270,,,,,,,,,
+4.15.1,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,5,Sektor Cilandak,Cilandak,27,Cipete Selatan,4.15.1,Pos Cipete,1,Pos Pemadam,Dijaga,Jl. Melati Raya,,12410,1990,572,95,1992,368750000,Rehap Total,,-6.270123,106.807807
+4.15.2,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,5,Sektor Cilandak,Cilandak,28,Cilandak Barat,4.15.2,Pos Fatmawati,1,Pos Pemadam,Dijaga,Jl. Raya Fatmawati,,12430,1974,450,99,,,,,-6.298158,106.794847
+4.15.3,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,5,Sektor Cilandak,Cilandak,29,Gandaria Selatan,4.15.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12420,,,,,,,,,
+4.15.4,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,5,Sektor Cilandak,Cilandak,30,Pondok Labu,4.15.4,Pos Tanah Kusir,0,Belum ada Pos/Sektor,None,,,12450,,,,,,,,-6.250084,106.778013
+4.15.5,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,5,Sektor Cilandak,Cilandak,31,Lebak Bulus,4.15.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12440,,,,,,,,,
+4.16.1,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,6,Sektor Tebet,Tebet,32,Tebet Barat,4.16.1,Pos Tebet,1,Pos Pemadam,Dijaga,Jl. Prof. Dr. Soepomo,,12810,1972,2750,216,2007,,,,-6.240111,106.845456
+4.16.2,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,6,Sektor Tebet,Tebet,33,Bukit Duri,4.16.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12840,,,,,,,,,
+4.16.3,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,6,Sektor Tebet,Tebet,34,Manggarai Selatan,4.16.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12860,,,,,,,,,
+4.16.4,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,6,Sektor Tebet,Tebet,35,Manggarai ,4.16.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12850,,,,,,,,,
+4.16.5,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,6,Sektor Tebet,Tebet,36,Tebet Timur,4.16.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12820,,,,,,,,,
+4.16.6,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,6,Sektor Tebet,Tebet,37,Kebon Baru,4.16.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12830,,,,,,,,,
+4.16.7,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,6,Sektor Tebet,Tebet,38,Menteng Dalam,4.16.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12870,1995,273,132,,,,,,
+4.17.1,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,7,Sektor Setiabudi,Setiabudi,39,Setiabudi,4.17.1,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12910,,,,,,,,,
+4.17.2,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,7,Sektor Setiabudi,Setiabudi,40,Kuningan Timur,4.17.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12950,,,,,,,,,
+4.17.3,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,7,Sektor Setiabudi,Setiabudi,41,Karet Kuningan,4.17.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12940,,,,,,,,,
+4.17.4,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,7,Sektor Setiabudi,Setiabudi,42,Karet,4.17.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12920,,,,,,,,,
+4.17.5,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,7,Sektor Setiabudi,Setiabudi,43,Karet Semanggi,4.17.5,Pos Mabes,0,Belum ada Pos/Sektor,None,,,12930,,,,,,,,,
+4.17.6,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,7,Sektor Setiabudi,Setiabudi,44,Guntur,4.17.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12980,,,,,,,,,
+4.17.7,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,7,Sektor Setiabudi,Setiabudi,45,Menteng Atas,4.17.7,Pos Casablangka,1,Pos Pemadam,Dijaga,Jl. Raya Casablanca,,12870,1995,273,132,,,,,-6.221973,106.844955
+4.17.8,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,7,Sektor Setiabudi,Setiabudi,46,Pasar Manggis,4.17.8,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12970,,,,,,,,,
+4.18.1,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,8,Sektor Pancoran,Pancoran,47,Pancoran,4.18.1,Pos Fatmawati,0,Belum ada Pos/Sektor,None,,,12780,,,,,,,,-6.298004,106.794802
+4.18.2,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,8,Sektor Pancoran,Pancoran,48,Duren Tiga,4.18.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12760,,,,,,,,,
+4.18.3,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,8,Sektor Pancoran,Pancoran,49,Rawajati,4.18.3,Pos Kalibata ,0,Belum ada Pos/Sektor,None,Komp. MPR Kalibata,,12750,,,,,,,,-6.253931,106.851058
+4.18.4,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,8,Sektor Pancoran,Pancoran,50,Pangadegan,4.18.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12770,,,,,,,,,
+4.18.5,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,8,Sektor Pancoran,Pancoran,51,Kalibata,4.18.5,Pos Kalibata ,1,Pos Pemadam,Dijaga,"Komp. DPRMPR, Jl. Pahlawan",,12740,1990,193,99,2007,,,,-6.253926,106.851082
+4.18.6,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,8,Sektor Pancoran,Pancoran,52,Cikoko,4.18.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12770,,,,,,,,,
+4.19.1,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,9,Sektor Pasar Minggu,Pasar Minggu,58,Jatipadang,4.19.1,Kantor sektor Pasar Minggu,1,Kantor Sektor,Dijaga,Jl. Salihara,021 7817886,12540,2008,,,,,,,-6.284369,106.83783
+4.19.2,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,9,Sektor Pasar Minggu,Pasar Minggu,53,Pejaten Barat,4.19.2,Pos Pejaten,1,Pos Pemadam,Dijaga,Jl. Pejaten Raya,,12510,1990,800,99,2007,,,,,
+4.19.3,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,9,Sektor Pasar Minggu,Pasar Minggu,54,Pasar Minggu,4.19.3,Pos Pasar Minggu,1,Pos Pemadam,Dijaga,Jl. Lenteng Agung,,12520,1980,915,,,,,Pembangunan TA. 2008,-6.295818,106.840926
+4.19.4,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,9,Sektor Pasar Minggu,Pasar Minggu,55,Ragunan,4.19.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12550,,,,,,,,,
+4.19.5,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,9,Sektor Pasar Minggu,Pasar Minggu,56,Kebagusan,4.19.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12520,,,,,,,,,
+4.19.6,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,9,Sektor Pasar Minggu,Pasar Minggu,57,Pejaten Timur,4.19.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12510,,,99,2003,,,,,
+4.19.7,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,9,Sektor Pasar Minggu,Pasar Minggu,59,Cilandak Timur,4.19.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12560,,,,,,,,,
+4.20.1,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,10,Sektor Jagakarsa,Jagakarsa,60,Jagakarsa,4.20.1,Kantor Sektor Jagakarsa,1,Kantor Sektor,Dijaga,Jl. M. Kahfi I,021 78883788,12620,2006,1044,216,,462800000, Pemasangan Turab        ' Peninggian Halaman       ' Parkir Motor,,-6.315607,106.81167
+4.20.2,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,10,Sektor Jagakarsa,Jagakarsa,63,Ciganjur,4.20.2,Pos Ciganjur,1,Pos Pemadam,Dijaga,Jl. Brigif,,12630,,,,,,,Swadaya masyarakat / Status dalam Pembangunan TA. 2008,-6.344737,106.79876
+4.20.3,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,10,Sektor Jagakarsa,Jagakarsa,64,Srengseng Sawah,4.20.3,Pos Srengseng Sawah,1,Pos Pemadam,Dijaga,Jl. Srengseh Sawah ,,12640,1995,941,99,1993,,,,-6.357035,106.809716
+4.20.4,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,10,Sektor Jagakarsa,Jagakarsa,61,Cipedak,4.20.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12630,,,,,,,,,
+4.20.5,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,10,Sektor Jagakarsa,Jagakarsa,62,Lenteng Agung,4.20.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12610,,,,,,,,,
+4.20.6,4,Sudin DamkarPB Kota Administrasi Jakarta Selatan,10,Sektor Jagakarsa,Jagakarsa,65,Tanjung Barat,4.20.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,12530,,,,,,,,,
+5.1,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,1,Sektor Matraman,Matraman,1,Kebon Manggis,5.1,Kantor Sudin ,1,Kantor Sudin,Dijaga,Jl.Matraman Raya No. 132,021 8582150,13150,1975,1974,766,2006,550000000,,,-6.2105401,106.8595011
+5.11.2,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,1,Sektor Matraman,Matraman,2,Utan Kayu Utara,5.11.2,Pos Utan Kayu,1,Pos Pemadam,Tidak Dijaga,Jl. Pengayoman,,13120,1970,150,110,2002,,,tidak dijaga 1998 (bukan tanah pemda),-6.194242,106.869008
+5.11.3,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,1,Sektor Matraman,Matraman,3,Pal Meriam,5.11.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13140,,,,,,,,,
+5.11.4,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,1,Sektor Matraman,Matraman,4,Pisangan Baru,5.11.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13110,,,,,,,,,
+5.11.5,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,1,Sektor Matraman,Matraman,5,Kayu Manis,5.11.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13130,,,,,,,,,
+5.11.6,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,1,Sektor Matraman,Matraman,6,Utan Kayu Selatan,5.11.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13120,,,,,,,,,
+5.12,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,2,Sektor Pulogadung,Pulogadung,7,Jati,5.12,Kantor Sektor Pulo Gadung,1,Kantor Sektor,Dijaga,Jl. Pemuda,,13220,2006,982,486,,,,,,
+5.12.1,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,2,Sektor Pulogadung,Pulogadung,12,Pulogadung,5.12.1,Pos Pulo Gadung,1,Pos Pemadam,Dijaga,Jl. Pulo Lentut,,13260,1974,320,143,2006,187000000,,,-6.184272,106.917205
+5.12.2,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,2,Sektor Pulogadung,Pulogadung,8,Kayu Putih,5.12.2,Pos Pulo Mas,1,Pos Pemadam,Dijaga,Jl. Pulo Mas Barat VI ,,13210,1984,400,150,2007,175000000,,,-6.179562,106.880907
+5.12.3,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,2,Sektor Pulogadung,Pulogadung,9,Pisangan Timur,5.12.3,Pos Cipinang,1,Pos Pemadam,Dijaga,Jl. Pasar Induk Cipinang ,,13230,1987,150,150,1993,,,,,
+5.12.4,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,2,Sektor Pulogadung,Pulogadung,10,Cipinang,5.12.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13240,,,,,,,,,
+5.12.5,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,2,Sektor Pulogadung,Pulogadung,11,Jatinegara Kaum,5.12.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13250,,,,,,,,,
+5.12.6,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,2,Sektor Pulogadung,Pulogadung,11,Jatinegara,5.12.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,0,,,,,,,,,
+5.12.7,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,2,Sektor Pulogadung,Pulogadung,13,Rawamangun,5.12.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13220,,,,,,,,,
+5.13.1,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,3,Sektor Cakung,Cakung,14,Cakung Barat,5.13.1,Kantor Sektor Cakung,1,Kantor Sektor,Dijaga,Jl. Raya Tipar Cakung /Cakung Barat,,13910,2006,785,309,,,,,,
+5.13.2,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,3,Sektor Cakung,Cakung,15,Jatinegara,5.13.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13930,,,,,,,,,
+5.13.3,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,3,Sektor Cakung,Cakung,16,Pulo Gebang,5.13.3,Pos Walikota,1,Pos Pemadam,Dijaga,Jl. Area Kantor Walikota,,13950,1996,400,170,,,,,-6.213042,106.945125
+5.13.4,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,3,Sektor Cakung,Cakung,17,Rawa Terate,5.13.4,Pos Cakung,0,Pos Pemadam,Tidak Dijaga,Jl. Raya Bekasi  KM 23,,13920,1974,250,168,2002,,,Tidak dijaga (1999),,
+5.13.5,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,3,Sektor Cakung,Cakung,18,Penggilingan ,5.13.5,Pos PIK,1,Pos Pemadam,Dijaga,Komp. PIK Penggilingan,,13940,1974,290,175,2006,187000000,,,-6.203319,106.929837
+5.13.6,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,3,Sektor Cakung,Cakung,19,Ujung Menteng,5.13.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13960,,,,,,,,,
+5.13.7,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,3,Sektor Cakung,Cakung,20,Cakung Timur,5.13.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13910,,,,,,,,,
+5.14.1,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,4,Sektor Jatinegara,Jatinegara,21,Bidara Cina,5.14.1,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13330,,,,,,,,,
+5.14.2,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,4,Sektor Jatinegara,Jatinegara,22,Cipinang Cimpedak,5.14.2,Pos Jatinegara,0,Belum ada Pos/Sektor,None,,,13340,,,,,,,,,
+5.14.3,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,4,Sektor Jatinegara,Jatinegara,23,Cipinang Muara,5.14.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13420,,,,,,,,,
+5.14.4,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,4,Sektor Jatinegara,Jatinegara,24,Cipinang Besar Utara,5.14.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13410,,,,,,,,,
+5.14.5,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,4,Sektor Jatinegara,Jatinegara,25,Cipinang Besar Selatan,5.14.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13410,,,,,,,,,
+5.14.6,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,4,Sektor Jatinegara,Jatinegara,26,Rawa Bunga,5.14.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13350,,,,,,,,,
+5.14.7,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,4,Sektor Jatinegara,Jatinegara,27,Bali Mester,5.14.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13310,,,,,,,,,
+5.14.8,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,4,Sektor Jatinegara,Jatinegara,28,Kampung Mester/Melayu,5.14.8,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13320,,,,,,,,,
+5.15.1,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,5,Sektor Duren Sawit,Duren Sawit,29,Pondok Kelapa,5.15.1,Pos Duren Sawit,1,Pos Pemadam,Dijaga,Jl. Raya Pondok Kelapa ,,13450,1982,322,150,2005,200000000,,,,
+5.15.2,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,5,Sektor Duren Sawit,Duren Sawit,30,Pondok Bambu,5.15.2,Pos Pondok Bambu,1,Pos Pemadam,Dijaga,Jl. Balai Rakyat,,13430,1991,400,180,2005,200000000,,,-6.224913,106.902441
+5.15.3,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,5,Sektor Duren Sawit,Duren Sawit,31,Duren Sawit,5.15.3,Pos Pondok Kelapa,1,Pos Pemadam,Dijaga,Jl. Swadaya Area Kelurahan Duren Sawit,,13440,1982,240,180,,,,,-6.239854,106.934592
+5.15.4,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,5,Sektor Duren Sawit,Duren Sawit,32,Pondok Kopi,5.15.4,Pos Pondok Kopi,1,Pos Pemadam,Dijaga,Jl. Raya Pondok Kopi,,13460,1991,380,170,2004,100000000,,,-6.220733,106.94351
+5.15.5,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,5,Sektor Duren Sawit,Duren Sawit,33,Malaka Jaya,5.15.5,Pos Klender,1,Pos Pemadam,Dijaga,Jl. Bunga Rampai ,,13460,1977,400,170,2004,100000000,,,-6.222175,106.933034
+5.15.6,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,5,Sektor Duren Sawit,Duren Sawit,34,Malaka Sari,5.15.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13460,,,,,,,,,
+5.15.7,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,5,Sektor Duren Sawit,Duren Sawit,35,Klender,5.15.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13470,,,,,,,,,
+5.16.1,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,6,Sektor Makasar,Makasar,38,Kebon Pala,5.16.1,Kantor Sektor Makasar,1,Kantor Sektor,Dijaga,Jl. Delima Raya,,13650,2007,500,216,,,,,-6.262653,106.880594
+5.16.2,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,6,Sektor Makasar,Makasar,36,Pinang Ranti,5.16.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13560,,,,,,,,,
+5.16.3,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,6,Sektor Makasar,Makasar,37,Makasar,5.16.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13570,,,,,,,,,
+5.16.4,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,6,Sektor Makasar,Makasar,39,Halim Perdana Kusuma,5.16.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13610,,,,,,,,,
+5.16.5,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,6,Sektor Makasar,Makasar,40,Cipinang Melayu,5.16.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13620,,,,,,,,,
+5.17.1,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,7,Sektor Kramat Jati,Kramat Jati,41,Bale Kambang,5.17.1,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13530,,,,,,,,,
+5.17.2,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,7,Sektor Kramat Jati,Kramat Jati,42,Batu Ampar,5.17.2,Pos Batu ampar,1,Pos Pemadam,Dijaga,Jl. Raya Batu Ampar,,13520,2007,399,105,,,,,-6.276557,106.860794
+5.17.3,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,7,Sektor Kramat Jati,Kramat Jati,43,Kampung Tengah,5.17.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13540,,,,,,,,,
+5.17.4,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,7,Sektor Kramat Jati,Kramat Jati,44,Dukuh,5.17.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13550,,,,,,,,,
+5.17.5,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,7,Sektor Kramat Jati,Kramat Jati,45,Kramat Jati,5.17.5,Pos Kramat Jati,1,Pos Pemadam,Tidak Dijaga,Jl Raya Bogor (Polres Ciracas),,13510,1975,190,190,,,,Tidak Dijaga (status tanah...?),,
+5.17.6,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,7,Sektor Kramat Jati,Kramat Jati,46,Cililitan,5.17.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13640,,,,,,,,,
+5.17.7,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,7,Sektor Kramat Jati,Kramat Jati,47,Cawang,5.17.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13630,,,,,,,,,
+5.18.1,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,8,Sektor Ciracas,Ciracas,48,Ciracas,5.18.1,Kantor Sektor Ciracas,1,Kantor Sektor,Dijaga,Jl. Raya Poncol,021 8703552,13740,2005,873,318,,,,,,
+5.18.2,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,8,Sektor Ciracas,Ciracas,49,Susukan,5.18.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13750,,,,,,,,,
+5.18.3,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,8,Sektor Ciracas,Ciracas,50,Cibubur,5.18.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13720,,,,,,,,,
+5.18.4,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,8,Sektor Ciracas,Ciracas,51,Kelapa Dua Wetan,5.18.4,Pos Poncol,0,Belum ada Pos/Sektor,None,,,13730,,,,,,,,,
+5.18.5,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,8,Sektor Ciracas,Ciracas,52,Rambutan,5.18.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13830,,,,,,,,,
+5.18.6,7.1,Sudin DamkarPB Kota Administrasi Jakarta Timur,8,Sektor Ciracas,Ciracas,,Ciracas,5.18.6,Gedung Pos Jaga Yos Sudarso,1,Pos Pemadam,Dijaga,Jl. Raya Ciracas No. 113,,13740,1977,,336,2006,,,,,
+5.18.7,7.3,Sudin DamkarPB Kota Administrasi Jakarta Timur,8,Sektor Ciracas,Ciracas,,Ciracas,5.18.7,Pos Jaga Bengkel Induk ,1,Pos Pemadam,Dijaga,Jl. Raya Poncol Nomor 48,021 8711302,,,,,,,,,,
+5.19.1,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,9,Sektor Cipayung,Cipayung,53,Cipayung,5.19.1,Pos Cipayung,1,Pos Pemadam,Dijaga,Jl. Raya Hankam,,13840,1991,370,180,,,,,-6.327356,106.902097
+5.19.2,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,9,Sektor Cipayung,Cipayung,54,Ceger,5.19.2,Belum Tersedia,1,Pos Pemadam,Dijaga,Kawasan TMII,021 6409444,13820,1977,400,135,,,,,,
+5.19.3,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,9,Sektor Cipayung,Cipayung,55,Lubang Buaya,5.19.3,Pos Lubang Buaya,1,Pos Pemadam,Dijaga,Jl. Masjid Al Baido,,13810,1995,400,170,2002,,,,-6.286975,106.904725
+5.19.4,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,9,Sektor Cipayung,Cipayung,56,Pondok Rangon,5.19.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13860,,,,,,,,,
+5.19.5,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,9,Sektor Cipayung,Cipayung,57,Cilangkap,5.19.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13870,,,,,,,,,
+5.19.6,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,9,Sektor Cipayung,Cipayung,58,Munjul,5.19.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13850,,,,,,,,,
+5.19.7,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,9,Sektor Cipayung,Cipayung,59,Setu,5.19.7,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13880,,,,,,,,,
+5.19.8,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,9,Sektor Cipayung,Cipayung,60,Bambu Apus,5.19.8,Pos Taman Mini,0,Belum ada Pos/Sektor,None,,,13890,,,,,,,,,
+5.20.1,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,10,Sektor Pasar Rebo,Pasar Rebo,62,Pekayon,5.20.1,Pos Pekayon,0,Belum ada Pos/Sektor,None,,,13710,,,,,,,,,
+5.20.2,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,10,Sektor Pasar Rebo,Pasar Rebo,61,Kalisari,5.20.2,Pos Pekayon,1,Pos Pemadam,Dijaga,Jl. Kalisari,,13790,1985,600,180,2005,200000000,,,,
+5.20.3,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,10,Sektor Pasar Rebo,Pasar Rebo,63,Baru,5.20.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13780,,,,,,,,,
+5.20.4,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,10,Sektor Pasar Rebo,Pasar Rebo,64,Cijantung,5.20.4,Pos Cijantung,0,Belum ada Pos/Sektor,None,,,13770,,,,,,,,,
+5.20.5,5,Sudin DamkarPB Kota Administrasi Jakarta Timur,10,Sektor Pasar Rebo,Pasar Rebo,65,Gedong,5.20.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,13760,,,,,,,,,
+0.1,0,Kantor Dinas Pemadam Kebakaran Provinsi DKI Jakarta,none,none,Gambir,,Duri Pulo ,0.1,Kantor Dinas Pemadam Kebakaran ,1,Kantor Dinas,Dijaga,Jl. K.H. Zainul Arifin No. 71,021 6342036,,,,,,,,,-6.161295,106.809519
+6.11.1,6,Kabupaten Administrasi Kep. Seribu,1,Kep. Seribu Utara,Kep. Seribu Utara,1,Pulau Panggang,6.11.1,Belum Tersedia,0,Belum ada Pos/Sektor,None,Jl. Pulau Pramuka,,14530,,,,,,,Pembangunan Pondasi (TA. 2006),,
+6.11.2,6,Kabupaten Administrasi Kep. Seribu,1,Kep. Seribu Utara,Kep. Seribu Utara,2,Pulau Kelapa,6.11.2,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14540,,,,,,,,,
+6.11.3,6,Kabupaten Administrasi Kep. Seribu,1,Kep. Seribu Utara,Kep. Seribu Utara,3,Pulau Harapan,6.11.3,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14540,,,,,,,,,
+6.11.4,6,Kabupaten Administrasi Kep. Seribu,2,Kep. Seribu Selatan,Kep. Seribu Selatan,4,Pulau Tidung,6.11.4,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14520,,,,,,,,,
+6.11.5,6,Kabupaten Administrasi Kep. Seribu,2,Kep. Seribu Selatan,Kep. Seribu Selatan,5,Pulau Pari,6.11.5,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14510,,,,,,,,,
+6.11.6,6,Kabupaten Administrasi Kep. Seribu,2,Kep. Seribu Selatan,Kep. Seribu Selatan,6,Pulau Untung Jawa,6.11.6,Belum Tersedia,0,Belum ada Pos/Sektor,None,,,14510,,,,,,,,,

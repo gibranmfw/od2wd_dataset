@@ -1,0 +1,34 @@
+nama_waduk,luas_rencana(ha),luas_existing(ha),luas_badan_air,latitude,longitude,nama_bidang,nama_wilayah,keterangan
+"Embung Jl. Cakung Cilincing",3.019,0,0,-6.156037,106.942878,"Bidang Sistem Aliran Timur","Jakarta Timur","Proses pembebasan"
+"Embung Pekayon",1.7,1.706,1.49,-6.346128,106.863775,"Bidang Sistem Aliran Timur","Jakarta Timur","Selesai pembebasan, siap keruk"
+"Situ Dongkelan",0,6,6.828,-6.349879,106.856718,"Bidang Sistem Aliran Timur","Jakarta Timur",
+"Situ Rawa Badung",4.79,4.162,3.424,-6.211428,106.922626,"Bidang Sistem Aliran Timur","Jakarta Timur","Proses pembebasan"
+"Situ Rawa Dongkal",12,12,0,,,"Bidang Sistem Aliran Timur","Jakarta Timur",
+"Situ Rawa Gelam",3,3,2.668,-6.202829,106.912308,"Bidang Sistem Aliran Timur","Jakarta Timur",
+"Situ Rawa Kelapa Dua Wetan",10,4.5,5.715,,,"Bidang Sistem Aliran Timur","Jakarta Timur",
+"Situ Rawa Kendal",15.98,10,0,,,"Bidang Sistem Aliran Timur","Jakarta Utara","Proses pembebasan"
+"Situ Rawa Rorotan",50,25,0,-6.16387,106.95557,"Bidang Sistem Aliran Timur","Jakarta Timur",
+"Situ Tipar",0,5,0,,,"Bidang Sistem Aliran Timur","Jakarta Timur",
+"Waduk Aneka Elok",3.8,2,0.235,-6.19095,106.935733,"Bidang Sistem Aliran Timur","Jakarta Timur",
+"Waduk Cilangkap",5.727,3.389,2.759,-6.320131,106.894873,"Bidang Sistem Aliran Timur","Jakarta Timur","Proses pembebasan"
+"Waduk Cilangkap Jl Giri Kencana",6.414,4.738,1.44,-6.333665,106.907565,"Bidang Sistem Aliran Timur","Jakarta Timur","Proses pembebasan"
+"Waduk Cimanggis",4.69,4.33,0,-6.367149,106.884007,"Bidang Sistem Aliran Timur","Jakarta Timur","Proses pembebasan, siap keruk"
+"Waduk Cipayung",3.599,3.355,1.932,-6.31094,106.915377,"Bidang Sistem Aliran Timur","Jakarta Timur",
+"Waduk Don Bosco",2,2,0.132,-6.165074,106.913062,"Bidang Sistem Aliran Timur","Jakarta Utara",
+"Waduk Jl. Raya Pondok Ranggon",3.166,1.79,0,-6.346033,106.911985,"Bidang Sistem Aliran Timur","Jakarta Timur","Proses pembebasan"
+"Waduk Kampung Rambutan 1",5.081,5.405,0,-6.309098,106.880797,"Bidang Sistem Aliran Timur","Jakarta Timur","Proses pembebasan, siap keruk"
+"Waduk Kemayoran",11.3,11.3,13.331,-6.136374,106.849215,"Bidang Sistem Aliran Timur","Jakarta Utara",
+"Waduk Marunda",56,39.443,0,-6.112721,106.960664,"Bidang Sistem Aliran Timur","Jakarta Utara","Proses pembebasan"
+"Waduk Munjul",5,4.75,0,-6.344942,106.90104,"Bidang Sistem Aliran Timur","Jakarta Timur","Proses pembebasan"
+"Waduk Pondok Ranggon I",11.545,11.164,7.041,-6.340383,106.918289,"Bidang Sistem Aliran Timur","Jakarta Timur","Proses pembebasan, siap keruk"
+"Waduk Pondok Ranggon III",3.613,0,0,-6.331452,106.920121,"Bidang Sistem Aliran Timur","Jakarta Timur","Proses pembebasan"
+"Waduk Ria Rio",0,9,0,-6.17001,106.87967,"Bidang Sistem Aliran Timur","Jakarta Timur",
+"Waduk RW 05 Ceger",11.6,0,0.342,-6.311904,106.887007,"Bidang Sistem Aliran Timur","Jakarta Timur",
+"Waduk Sunter Hulu",11,7.287,3.629,-6.315371,106.921395,"Bidang Sistem Aliran Timur","Jakarta Timur","Proses pembebasan, siap keruk"
+"Waduk Sunter Selatan",43,38,3.185,-6.15398,106.888455,"Bidang Sistem Aliran Timur","Jakarta Utara",
+"Waduk Sunter Timur 1 A",7,7,5.332,-6.145555,106.881248,"Bidang Sistem Aliran Timur","Jakarta Utara",
+"Waduk Sunter Timur 1 B",8,8,0,,,"Bidang Sistem Aliran Timur","Jakarta Utara",
+"Waduk Sunter Timur 2",25,0,0,,,"Bidang Sistem Aliran Timur","Jakarta Utara",
+"Waduk Sunter Timur 3",13,13,7.173,-6.124966,106.896591,"Bidang Sistem Aliran Timur","Jakarta Utara",
+"Waduk Sunter Utara",32,32,30.928,-6.126024,106.868108,"Bidang Sistem Aliran Timur","Jakarta Utara",
+"Waduk Taman Modern",0,3.1,0,-6.192952,106.955423,"Bidang Sistem Aliran Timur","Jakarta Timur",
